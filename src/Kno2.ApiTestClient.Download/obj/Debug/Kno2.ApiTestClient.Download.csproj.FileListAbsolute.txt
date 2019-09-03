@@ -1,0 +1,15 @@
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\obj\Debug\Kno2.ApiTestClient.Download.csproj.CoreCompileInputs.cache
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\obj\Debug\Kno2.ApiTestClient.Download.csprojAssemblyReference.cache
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Download.exe.config
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Download.exe
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Download.pdb
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Core.dll
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Core.pdb
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Kno2.ApiTestClient.Core.dll.config
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\obj\Debug\Kno2.ApiTestClient.Download.csproj.CopyComplete
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\obj\Debug\Kno2.ApiTestClient.Download.exe
+C:\Users\dgarber\source\repos\Kno2.ApiTestClient\src\Kno2.ApiTestClient.Download\obj\Debug\Kno2.ApiTestClient.Download.pdb
